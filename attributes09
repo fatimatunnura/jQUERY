@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $("input:text").val(function(n,c){
+      return c + " Griffin";
+    });
+  });
+});
+</script>
+</head>
+<body>
+
+<p>Name: <input type="text" name="user" value="Peter"></p>
+<button>Set the value of the input field</button>
+
+</body>
+</html>
