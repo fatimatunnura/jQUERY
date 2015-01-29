@@ -8,7 +8,10 @@
 
 class Course {
 
+function_call($functionname,$argument){
 
-    public $firstname=null;
-    public $lastnmae=null;
-} 
+    echo "hello";
+var_dump($functionname);
+var_dump($arguent);
+}
+}

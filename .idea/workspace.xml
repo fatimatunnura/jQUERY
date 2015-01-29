@@ -2,67 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3813bb0b-de9a-4590-877b-25d3e06e81eb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class_practice/auto_load.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jQUERY.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accordion" afterPath="$PROJECT_DIR$/accordion.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accordion1" afterPath="$PROJECT_DIR$/accordion1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attributes" afterPath="$PROJECT_DIR$/attributes.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attributes007" afterPath="$PROJECT_DIR$/attributes007.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attributes01" afterPath="$PROJECT_DIR$/attributes01.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attributes02" afterPath="$PROJECT_DIR$/attributes02.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attributes03" afterPath="$PROJECT_DIR$/attributes03.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attributes04" afterPath="$PROJECT_DIR$/attributes04.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attributes05" afterPath="$PROJECT_DIR$/attributes05.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attributes06" afterPath="$PROJECT_DIR$/attributes06.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attributes08" afterPath="$PROJECT_DIR$/attributes08.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attributes09" afterPath="$PROJECT_DIR$/attributes09.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attributes1" afterPath="$PROJECT_DIR$/attributes1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attributes2" afterPath="$PROJECT_DIR$/attributes2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attributes3" afterPath="$PROJECT_DIR$/attributes3.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attributes4" afterPath="$PROJECT_DIR$/attributes4.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attributes5" afterPath="$PROJECT_DIR$/attributes5.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attributes6" afterPath="$PROJECT_DIR$/attributes6.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attributes8" afterPath="$PROJECT_DIR$/attributes8.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attributes9" afterPath="$PROJECT_DIR$/attributes9.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/autocomplete" afterPath="$PROJECT_DIR$/autocompleteautocomplete" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/autocomplete1" afterPath="$PROJECT_DIR$/autocomplete1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/button" afterPath="$PROJECT_DIR$/button.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/button1" afterPath="$PROJECT_DIR$/button1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories1" afterPath="$PROJECT_DIR$/categories1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/datepicker" afterPath="$PROJECT_DIR$/datepicker.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/datepicker1" afterPath="$PROJECT_DIR$/datepicker1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dialog" afterPath="$PROJECT_DIR$/dialog.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dialog1" afterPath="$PROJECT_DIR$/dialog1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selector_attributes" afterPath="$PROJECT_DIR$/selector_attributes.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selector_attributes1" afterPath="$PROJECT_DIR$/selector_attributes1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selector_attributes2" afterPath="$PROJECT_DIR$/selector_attributes2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selector_attributes4" afterPath="$PROJECT_DIR$/selector_attributes4.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selector_attributes5" afterPath="$PROJECT_DIR$/selector_attributes5.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selector_basic" afterPath="$PROJECT_DIR$/selector_basic.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selector_basic1" afterPath="$PROJECT_DIR$/selector_basic1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selector_basic_filter" afterPath="$PROJECT_DIR$/selector_basic_filter.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selector_basic_filter1" afterPath="$PROJECT_DIR$/selector_basic_filter1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selector_child_filter1" afterPath="$PROJECT_DIR$/selector_child_filter1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selector_child_filter2" afterPath="$PROJECT_DIR$/selector_child_filter2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selector_content_filter" afterPath="$PROJECT_DIR$/selector_content_filter.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selector_content_filter1" afterPath="$PROJECT_DIR$/selector_content_filter1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selector_form" afterPath="$PROJECT_DIR$/selector_form.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selector_form1" afterPath="$PROJECT_DIR$/selector_form1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selector_hierarchy" afterPath="$PROJECT_DIR$/selector_hierarchy.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selector_hierarchy1" afterPath="$PROJECT_DIR$/selector_hierarchy1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selector_traversing_filtering" afterPath="$PROJECT_DIR$/selector_traversing_filtering.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selector_traversing_filtering1" afterPath="$PROJECT_DIR$/selector_traversing_filtering1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selector_traversing_miscelleneous_traversing" afterPath="$PROJECT_DIR$/selector_traversing_miscelleneous_traversing.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selector_traversing_miscelleneous_traversing1" afterPath="$PROJECT_DIR$/selector_traversing_miscelleneous_traversing1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selector_traversing_tree_traversal" afterPath="$PROJECT_DIR$/selector_traversing_tree_traversal.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selector_traversing_tree_traversal1" afterPath="$PROJECT_DIR$/selector_traversing_tree_traversal1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selector_utilites" afterPath="$PROJECT_DIR$/selector_utilites.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selector_utilites1" afterPath="$PROJECT_DIR$/selector_utilites1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class_practice/Student.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class_work/alert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class_work/doubleclicked.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class_work/extending.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class_work/form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class_work/mousedown.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class_practice/Bkiict.php" afterPath="$PROJECT_DIR$/class_practice/Bkiict.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class_practice/Course.php" afterPath="$PROJECT_DIR$/class_practice/Course.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class_practice/oopExercise.php" afterPath="$PROJECT_DIR$/class_practice/oopExercise.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jQUERY.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -87,34 +36,104 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="accordion.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/accordion.html">
-          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-            <state />
-          </provider>
+      <file leaf-file-name="oopExercise.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class_practice/oopExercise.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="915">
+            <state vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="480">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="selector_traversing_filtering.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/selector_traversing_filtering.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="390">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="attributes5.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/attributes5.html">
+      <file leaf-file-name="Student.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class_practice/Student.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
-              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="270">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="auto_load.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/class_practice/auto_load.php">
+      <file leaf-file-name="Course01.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class_practice/Course01.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10489511" vertical-offset="0" max-vertical-offset="858">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            <state vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="285">
+              <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="autocompleteautocomplete" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/autocompleteautocomplete">
+          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.172413" vertical-offset="116" max-vertical-offset="1065">
+              <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="extending.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class_work/extending.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="330">
+              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class_work/form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="660">
+              <caret line="5" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alert.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class_work/alert.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-23.75" vertical-offset="0" max-vertical-offset="660">
+              <caret line="38" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="doubleclicked.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class_work/doubleclicked.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-23.75" vertical-offset="0" max-vertical-offset="660">
+              <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mousedown.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/class_work/mousedown.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3598485" vertical-offset="0" max-vertical-offset="792">
+              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -129,6 +148,23 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/class_practice/auto_load.php" />
+        <option value="$PROJECT_DIR$/class_practice/Student.php" />
+        <option value="$PROJECT_DIR$/class_practice/Bkiict.php" />
+        <option value="$PROJECT_DIR$/class_practice/Course.php" />
+        <option value="$PROJECT_DIR$/class_practice/oopExercise.php" />
+        <option value="$PROJECT_DIR$/class_work/extending.php" />
+        <option value="$PROJECT_DIR$/class_work/alert.php" />
+        <option value="$PROJECT_DIR$/class_work/form.html" />
+        <option value="$PROJECT_DIR$/class_work/alert.html" />
+        <option value="$PROJECT_DIR$/class_work/doubleclicked.html" />
+        <option value="$PROJECT_DIR$/class_work/mousedown.html" />
+      </list>
+    </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -191,6 +227,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="class_work" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jQUERY" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jQUERY" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="class_practice" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -202,6 +252,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -240,26 +291,47 @@
     <frame x="65" y="-4" width="1215" height="1028" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24978687" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24978687" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24978687" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -301,10 +373,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class_practice/auto_load.php">
+    <entry file="file://$PROJECT_DIR$/class_practice/Bkiict.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10489511" vertical-offset="0" max-vertical-offset="858">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="255">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_practice/Course.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="270">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <marker date="1422502846572" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_practice/Student.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="270">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_practice/oopExercise.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="480">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selector_traversing_filtering.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="860">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_practice/Course01.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="285">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autocompleteautocomplete">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.172413" vertical-offset="116" max-vertical-offset="1065">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_work/extending.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="330">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_work/alert.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.75" vertical-offset="0" max-vertical-offset="660">
+          <caret line="38" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_work/doubleclicked.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.75" vertical-offset="0" max-vertical-offset="660">
+          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_work/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="660">
+          <caret line="5" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_work/mousedown.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3598485" vertical-offset="0" max-vertical-offset="792">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
           <folding />
         </state>
       </provider>

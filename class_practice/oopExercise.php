@@ -20,4 +20,7 @@ echo "<br>";
 $course->title='Course Title';
 echo $course->title;
 echo "<br>";
-var_damp($course);
+$course->getCredits("hello","hi");
+$course->getLessons();
+
+//var_damp($course);
